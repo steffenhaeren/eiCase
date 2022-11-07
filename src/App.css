@@ -1,0 +1,20 @@
+.App {
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+input {
+    border-radius: 5px;
+    text-align: center; 
+    border-color: #d4d4d4;
+    text-decoration: none;
+    width: 200px;
+    margin: 5px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: #F4f4f4;
+    text-decoration: none;
+}
